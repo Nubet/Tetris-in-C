@@ -46,25 +46,22 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
 <p align="center">
   <img src="images/t1.png" width="90%" />
   <img src="images/t2.png" width="90%" />
-</p>
-<p align="center">
-  <img src="images/t3.png" width="70%" />
-  <img src="images/t4.png" width="70%" />
-</p>
-<p align="center">
-  <img src="images/t5.png" width="70%" />
-  <img src="images/t6.png" width="70%" />
-</p>
-<p align="center">
-  <img src="images/t7.png" width="70%" />
-  <img src="images/t8.png" width="70%" />
-</p>
-<p align="center">
-  <img src="images/t9.png" width="70%" />
-  <img src="images/t10.png" width="70%" />
+
+  <img src="images/t3.png" width="90%" />
+  <img src="images/t4.png" width="90%" />
+
+  <img src="images/t5.png" width="90%" />
+  <img src="images/t6.png" width="90%" />
+
+  <img src="images/t7.png" width="90%" />
+  <img src="images/t8.png" width="90%" />
+
+  <img src="images/t9.png" width="90%" />
+  <img src="images/t10.png" width="90%" />
 </p>
 
 ---
+
 
 
 
