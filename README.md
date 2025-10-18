@@ -25,6 +25,22 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
 
 ---
 
+## 🚀 How to Build and Run
+
+1. Ensure you have SDL development libraries(SDL2.0 and SDL2_gfx) installed (linux required)
+    ```
+    sudo apt install libsdl2-gfx-dev
+    ```
+2. Compile the project with:
+   ```
+   make
+   ```
+3. Run the executable:
+   ```
+   ./tetris
+   ```
+
+---
 ## 📸 Gallery
 
 <p align="center">
@@ -47,23 +63,6 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
   <img src="images/t9.png" width="70%" />
   <img src="images/t10.png" width="70%" />
 </p>
-
----
-
-## 🚀 How to Build and Run
-
-1. Ensure you have SDL development libraries(SDL2.0 and SDL2_gfx) installed (linux required)
-    ```
-    sudo apt install libsdl2-gfx-dev
-    ```
-2. Compile the project with:
-   ```
-   make
-   ```
-3. Run the executable:
-   ```
-   ./tetris
-   ```
 
 ---
 
