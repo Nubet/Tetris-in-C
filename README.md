@@ -21,7 +21,7 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
 - Next piece preview display
 - Score tracking
 - Game over detection
-- Colorful graphics using SDL
+- Colorful graphics using SDL wrapper
 
 ---
 
@@ -61,6 +61,7 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
 </p>
 
 ---
+
 
 
 
