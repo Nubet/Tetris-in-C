@@ -28,24 +28,24 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/t1.png" width="40%" />
-  <img src="images/t2.png" width="40%" />
+  <img src="images/t1.png" width="50%" />
+  <img src="images/t2.png" width="50%" />
 </p>
 <p align="center">
-  <img src="images/t3.png" width="40%" />
-  <img src="images/t4.png" width="40%" />
+  <img src="images/t3.png" width="50%" />
+  <img src="images/t4.png" width="50%" />
 </p>
 <p align="center">
-  <img src="images/t5.png" width="40%" />
-  <img src="images/t6.png" width="40%" />
+  <img src="images/t5.png" width="50%" />
+  <img src="images/t6.png" width="50%" />
 </p>
 <p align="center">
-  <img src="images/t7.png" width="40%" />
-  <img src="images/t8.png" width="40%" />
+  <img src="images/t7.png" width="50%" />
+  <img src="images/t8.png" width="50%" />
 </p>
 <p align="center">
-  <img src="images/t9.png" width="40%" />
-  <img src="images/t10.png" width="40%" />
+  <img src="images/t9.png" width="50%" />
+  <img src="images/t10.png" width="50%" />
 </p>
 
 ---
@@ -66,3 +66,4 @@ A classic retro game implementation in C using the primlib library (SDL wrapper)
    ```
 
 ---
+
